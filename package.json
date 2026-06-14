@@ -1,0 +1,25 @@
+{
+  "name": "trabalho-conclusao-classe-pagamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js --reporter mochawesome --reporter-options reportDir=mochawesome-report,reportFilename=index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo-moreira/trabalho-conclusao-classe-pagamento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/hugo-moreira/trabalho-conclusao-classe-pagamento/issues"
+  },
+  "homepage": "https://github.com/hugo-moreira/trabalho-conclusao-classe-pagamento#readme",
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "mochawesome": "^7.1.3"
+  }
+}
