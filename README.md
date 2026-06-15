@@ -1,5 +1,5 @@
 # Trabalho de Conclusão — Classe de Pagamento
-
+ 
 Projeto desenvolvido na disciplina de **Programação para Automações de Testes** da pós-graduação. Implementa um serviço de pagamento simples com testes automatizados e pipeline de integração contínua via **GitHub Actions**.
 
 ---
